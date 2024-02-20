@@ -9,7 +9,7 @@ namespace EFConsoleUI.Models
 		public int Id { get; set; }
 		public string FirstName { get; set; }
 		public string LastName { get; set; }
-		public List<Email> EmailAddresses { get; set; }
-		public List<Phone> PhoneAddresses { get; set; }
+		public List<Email> EmailAddresses { get; set; } = new List<Email>();
+		public List<Phone> PhoneNumbers { get; set; } = new List<Phone>();
 	}
 }

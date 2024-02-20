@@ -94,7 +94,9 @@ D:\Sharp_Developers\learning\EFSolution\EFConsoleUI\obj\Debug\netcoreapp3.1\EFCo
 D:\Sharp_Developers\learning\EFSolution\EFConsoleUI\obj\Debug\netcoreapp3.1\EFConsoleUI.AssemblyInfoInputs.cache
 D:\Sharp_Developers\learning\EFSolution\EFConsoleUI\obj\Debug\netcoreapp3.1\EFConsoleUI.AssemblyInfo.cs
 D:\Sharp_Developers\learning\EFSolution\EFConsoleUI\obj\Debug\netcoreapp3.1\EFConsoleUI.csproj.CoreCompileInputs.cache
+D:\Sharp_Developers\learning\EFSolution\EFConsoleUI\obj\Debug\netcoreapp3.1\EFConsoleUI.sourcelink.json
 D:\Sharp_Developers\learning\EFSolution\EFConsoleUI\obj\Debug\netcoreapp3.1\EFConsoleUI.csproj.CopyComplete
 D:\Sharp_Developers\learning\EFSolution\EFConsoleUI\obj\Debug\netcoreapp3.1\EFConsoleUI.dll
 D:\Sharp_Developers\learning\EFSolution\EFConsoleUI\obj\Debug\netcoreapp3.1\EFConsoleUI.pdb
 D:\Sharp_Developers\learning\EFSolution\EFConsoleUI\obj\Debug\netcoreapp3.1\EFConsoleUI.genruntimeconfig.cache
+D:\Sharp_Developers\learning\EFSolution\EFConsoleUI\bin\Debug\netcoreapp3.1\appsettings.json
